@@ -20,7 +20,7 @@ Since I started learning the basics which lasted two months, I would like to dee
     * HTML
     * JavaScript
     * Git
-    * IDE (brackets, vscode)
+    * IDE (brackets, VSCode)
 
 ### Education:
 * Basic vocational school
