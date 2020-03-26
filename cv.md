@@ -11,7 +11,7 @@ I am a mother of two wonderful children. I have always liked to grow and learn n
 
 ### Goals:
 
-Since I started learning the basics which lasted two months, I would like to deepen my knowledge of javaScript so that I can work on projects in the future, create my own applications and learn new things related to it.
+Since I started learning the basics for about 2 months, I would like to deepen my knowledge of javaScript so that I can work on projects in the future, create my own applications and learn new things related to it.
 
 ### Skills:
 
